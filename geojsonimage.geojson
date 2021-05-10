@@ -25,6 +25,7 @@
         "marker-color": "#e60f0f",
         "marker-size": "medium",
         "marker-symbol": "star-stroked"
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/98/93/86/schlosskirche.jpg"
       },
       "geometry": {
         "type": "Point",
